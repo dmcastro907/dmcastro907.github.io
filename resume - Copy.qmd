@@ -1,0 +1,31 @@
+---
+layout: cv
+title: Daniel Castro's CV
+---
+# Daniel Castro
+Physicist, Mathematician, Cambridge professor.
+
+<div id="webaddress">
+<a href="dmcastro8@gmail.com">dmcastro8@gmail.com</a>
+</div>
+
+## Currently
+
+Studying computer science at Brigham-Young University Idaho
+
+## Education
+
+`2016-2020`
+__Albemarle High School, Virginia__
+
+`2022-Current`
+__Brigham-Young University Idaho__
+
+## Awards
+
+`2016`
+Eagle Scout
+
+<!-- ### Footer
+
+Last updated: October 2025 -->
