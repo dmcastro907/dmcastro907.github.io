@@ -5,7 +5,7 @@ website:
   title: "Daniel Castro - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: Project \#6
+  repo-url: https://dmcastro907.github.io/
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
@@ -24,7 +24,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "My Resume"
-        file: resume - Copy.qmd
+        file: resume.qmd
       - text: "Data Cleansing"
         file: cleansing.qmd
       - text: "Data Exploration"
